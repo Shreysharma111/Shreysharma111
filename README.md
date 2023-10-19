@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Aspiring Web Developer and Test Engineer | Ensuring Quality and Reliability in Software Development</h4>
+<h4 align="center">Automation Software Test Engineer | Ensuring Quality and Reliability in Software Development</h4>
 
 ###
 
